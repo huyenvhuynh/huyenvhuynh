@@ -1,10 +1,8 @@
-## Hi there 👋
+## 👋 Huyen's GitHub Profile 👋
+
+Hi! My name is Huyen Huynh, and I am a student at the University of Virginia pursuing a B.A. in Computer Science and a minor in Data Science.
 
 <!--
-**huyenvhuynh/huyenvhuynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
